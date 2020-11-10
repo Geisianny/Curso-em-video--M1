@@ -1,0 +1,2 @@
+idade = input('Digite o nome da cidade: ')
+print(cidade[:5].upper() == 'SANTO')  # comecarc/santos
